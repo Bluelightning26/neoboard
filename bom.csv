@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D22,D56,D45,D4,D47,D43,D26,D61,D1,D20,D49,D5,D33,D55,D52,D23,D32,D18,D51,D38,D44,D25,D63,D39,D62,D50,D54,D64,D46,D57,D48,D34,D60,D24,D17,D59,D19,D36,D12,D6,D2,D28,D27,D10,D14,D16,D15,D58,D40,D37,D11,D35,D30,D7,D8,D9,D13,D31,D42,D3,D29,D41,D53,D21";"LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm";64;"SK6812";;;
+2;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+3;"J1";"SSD1306-0.91-OLED-4pin-128x32";1;"Conn_01x04_Pin";;;
+4;"C5,C2,C4,C3";"CP_Radial_D8.0mm_P5.00mm";4;"C";;;
+5;"SW1";"RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch";;;
+6;"C1";"CP_Radial_D8.0mm_P5.00mm";1;"100uF";;;
+7;"LS1";"Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm";1;"PS1240P02BT";;;
+8;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"R";;;
