@@ -1,7 +1,7 @@
 ---
 title: "Neoboard"
 author: "Dhyan"
-description: ""
+description: "A NeoPixel based PCB Matrix"
 created_at: "2025-06-17"
 total_time_spent: "14.5"
 ---
