@@ -27,7 +27,12 @@ I made this project as LEDs are fun and Neopixels sit right on the board in a fl
 | PCB Lead Free| 1 | $21.66 (inc shipping) | JLCPCB | https://trade.jlcpcb.com/checkout/
 | Case | - | - | Printing Legion | - |
 
-**TOTAL: $68.56**
+Digikey Shipping: $6.99
+
+AliExpress Shipping: $4.90
+
+
+**TOTAL: $80.45**
 
 
 How to put it together?
