@@ -31,4 +31,4 @@ I made this project as LEDs are fun and Neopixels sit right on the board in a fl
 
 
 How to put it together?
-The top and the bottom of the case will be hot glued together. I was think of putting an acrylic sheet on the front to help give it a diffused look, but I'd like the PCB to be easily visable to give it a unique look.
+The top and the bottom of the case will be hot glued together. I was thinking of putting an acrylic sheet on the front to help give it a diffused look, but I'd like the PCB to be easily visable to give it a unique look.
