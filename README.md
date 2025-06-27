@@ -28,6 +28,7 @@ I made this project as LEDs are fun and Neopixels sit right on the board in a fl
 | 0.91 inch OLED |1 | $1.48 | AliExpress | https://www.aliexpress.us/item/3256809074340394.html|
 | PCB Lead Free| 1 | $21.66 (inc shipping) | JLCPCB | https://trade.jlcpcb.com/checkout/
 | Case | - | - | Printing Legion | - |
+| Small Felt Furniture Feet | 4 | N/A | Already Own | - |
 
 Digikey Shipping: $6.99
 
