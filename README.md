@@ -12,7 +12,9 @@
 I made this project as LEDs are fun and Neopixels sit right on the board in a flush, neat way. I wanted a project that can sit on my desk and look cool while being fun and interactive. I started PixelDust but didn't come close to finishing, and figured- why not work on a matrix when waiting for my HackPad (v2) and Solder PCB to ship
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8377be47c38cc220d4230f117ebddfec74ac3150_screenshot_2025-06-22_at_6.47.11___pm.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c2e57406e511e0e373404e9e97b731550a60340_screenshot_2025-06-22_at_6.46.30___pm.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/49ab6dba3d9518cfec00026b15b3d6b9658c8ea2_screenshot_2025-06-22_at_6.47.40___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/43462afa9c5e07d12344af6adee831e847c00a7f_screenshot_2025-06-27_at_5.48.47___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/66dc19e46450c50363e5fd113f93f1276bcabd57_screenshot_2025-06-27_at_5.49.07___pm.png)
+
 **BOM:**
 |  Part | #| Cost (Combined) | Supplier  | Link |
 |---    |--- |---             |---        | ---  |
@@ -36,4 +38,4 @@ AliExpress Shipping: $4.90
 
 
 How to put it together?
-The top and the bottom of the case will be hot glued together. I was thinking of putting an acrylic sheet on the front to help give it a diffused look, but I'd like the PCB to be easily visable to give it a unique look.
+The top and the bottom of the case can be slid together. I'm going to put felt pads underneath it so the top piece extrudes just slightly lower than the button piece. I was thinking of putting an acrylic sheet on the front to help give it a diffused look, but I'd like the PCB to be easily visable to give it a unique look.

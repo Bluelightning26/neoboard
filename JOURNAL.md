@@ -3,7 +3,7 @@ title: "Neoboard"
 author: "Dhyan"
 description: "A NeoPixel based PCB Matrix"
 created_at: "2025-06-17"
-total_time_spent: "14.5"
+total_time_spent: "16.5"
 ---
 ---
 ### June 17th 2025
@@ -82,3 +82,9 @@ Hours: 2.25
 - The BOM took me a while, as I couldn't find the links to many of the products
 - I also learned what PCBA is today and am very excited to try it out!!! Edit: Turns out PCBA is not the move, I'd rather solder everything than figure out all the JLC parts
 - I THINK I"M READY TO SUBMIT!! Firmware will need some work with product in hand but eerything feels like the product I'd like to have now :)
+
+---
+# June 27th
+Hours: 2
+
+Lots of work done on CAD!! Will update tmrw in the morning once totally done
