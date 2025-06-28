@@ -6,7 +6,7 @@
 ![Hackatime Badge](https://hackatime-badge.hackclub.com/U0824G9PTFE/neoboard-case/?color=64BB58&label=Time%20Tracked%20In%20OnShape)
 ![Hackatime Badge](https://hackatime-badge.hackclub.com/U0824G9PTFE/neoboard/?color=red&label=Time%20Journaling)
 
-*Not all time in KiCad has been tracked
+*Not all time in KiCad and most but not all time in OnShape has been tracked
 
 
 I made this project as LEDs are fun and Neopixels sit right on the board in a flush, neat way. I wanted a project that can sit on my desk and look cool while being fun and interactive. I started PixelDust but didn't come close to finishing, and figured- why not work on a matrix when waiting for my HackPad (v2) and Solder PCB to ship

@@ -3,7 +3,7 @@ title: "Neoboard"
 author: "Dhyan"
 description: "A NeoPixel based PCB Matrix"
 created_at: "2025-06-17"
-total_time_spent: "16.5"
+total_time_spent: "17"
 ---
 ---
 ### June 17th 2025
@@ -85,6 +85,31 @@ Hours: 2.25
 
 ---
 # June 27th
-Hours: 2
+Hours: 2.5
 
-Lots of work done on CAD!! Will update tmrw in the morning once totally done
+- TL;DR Many CAD improvements
+- USB C port redone
+  - Is symmetrical now and the fillet has a fillet which creates a cool countour curve
+  - There is still a gap around it as cables tend to be a bit larger than the port and I would rather have the spacing be too large than be too small
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cd85ba5f4c1642daaa089ee4c108e0ac403fba05_screenshot_2025-06-27_at_8.17.24___pm.png)
+- One thing I realized I hadn't designed before was, How will the PCB sit? It can't sit flush with the bottom of the case due to a resistor on the bottom. Thus before when designing this the PCB was floating. I added these circular supports below where there are no components for the PCB to rest on. These are unobtrusive, and should be strong but I added quite a few as it is better to have too much than too few.
+  - I made sure that there were no through hole components that might slightly interfere when placing these cylinders
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22f77c6b2cea30b0d31bbfd7e1d727eef1f75f25_screenshot_2025-06-27_at_6.08.12___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9462b65f71e57a4792bfaafc4d1a291a15a10956_screenshot_2025-06-27_at_6.07.59___pm.png)
+
+
+- Next, the case previously had an inner square and an outer one, with a gap of air in the middle. This was to have the PCB fit nice and snug inside the inner square and while saving on fillament where possible. 
+- Here's the previous design (ignore the corner squares, those are new)
+  ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3434864a90def2748fc1c01d57701d967278d794_screenshot_2025-06-27_at_8.23.52___pm.png)
+  After:![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bcb91c2b59982ab41bdb1f009082172b3986f6a6_screenshot_2025-06-27_at_8.27.13___pm.png)
+  - This was done to implement the screw holes. There has to be something solid to screw into; I was playing around with having them on the front and then realized that they wouldn't look very clean and I probably wouldn't use them too often anyways. 
+  
+
+- In the old design the lightblue and grey pieces would be the same and make up the bottom with the dark blue on the top. I decided to change that and make the lightblue part the independent part as it is much easier to hide the connection on the back if glue isn't used. This will also give me the option to add the acrylic diffuser in the front if I choose to do so in the future
+  ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/52ebd806f04d983a1229bfeaa6c257c35e44b280_screenshot_2025-06-27_at_8.28.39___pm.png)
+
+- I've used screws before and decided to try something else. The PCB doesn't have any holes in it to screw into and will be snug inplace due to the size of the surrounding case anyways so the only parts we need to connect together are the top and bottom of the case.
+  - I went with this design with the top case extruding slightly (0.1 cm iirc below the bottom case). This is so it almost stays steady and the pieces don't move around. I plan on adding felt furniture feet below it
+  ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dee9ffd027dd3d3da2a800578c68194516e4cf1a_screenshot_2025-06-27_at_8.33.02___pm.png)
+
+  That should be it!!
